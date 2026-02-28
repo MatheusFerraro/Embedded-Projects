@@ -32,14 +32,14 @@ These projects show that I can:
 
 | Project | Platform | What it demonstrates | Code | Demo |
 |---|---|---|---|---|
-| Spaceship Interface | Arduino UNO | Digital output, LED sequencing, button input basics | `SpaceshipInterface/SpaceshipInterface_Assignment1.ino` | https://youtu.be/WdyKd84uqG8 |
-| Love‑O‑Meter | Arduino UNO | Analog sensing (thermistor), thresholds, calibration mindset | `Love-o-Meter/Love-o-Meter_Assignment2.ino` | https://youtu.be/UMkDHPC7y6E |
+| Spaceship Interface | Arduino UNO | Digital output, LED sequencing, button input basics | `SpaceshipInterface/SpaceshipInterface.ino` | https://youtu.be/WdyKd84uqG8 |
+| Love‑O‑Meter | Arduino UNO | Analog sensing (thermistor), thresholds, calibration mindset | `Love-o-Meter/Love-o-Meter.ino` | https://youtu.be/UMkDHPC7y6E |
 | Color Mixing Lamp | Arduino UNO | PWM, RGB mixing, sensor feedback structure | `ColorMixingLamp/ColorMixingLamp_Assignment3.ino` | https://youtu.be/JklAYpaWLx0 |
-| Servo Mood Indicator | Arduino UNO | Servo control + mapping input → output behavior | `ServoMoodIndicator/ServoMoodIndicator_Assignment4.ino` | https://youtu.be/9OmnrQOTh3w |
-| Digital Hourglass | Arduino UNO | Timing/state, LCD output, helpers split into utils | `DigitalHourglass/DigitalHourglass_Assignment5.ino` | https://youtu.be/fsw4pIsPKsk |
+| Servo Mood Indicator | Arduino UNO | Servo control + mapping input → output behavior | `ServoMoodIndicator/ServoMoodIndicator.ino` | https://youtu.be/9OmnrQOTh3w |
+| Digital Hourglass | Arduino UNO | Timing/state, LCD output, helpers split into utils | `DigitalHourglass/DigitalHourglass.ino` | https://youtu.be/fsw4pIsPKsk |
+| ESP32 Temperature/Humidity | ESP32 | ESP32 project scaffolding + sensor-ready structure | `ESP32_TemperatureHumidity.ino` | https://youtu.be/XiJP8bIhl4Y |
 | Connecting Wi‑Fi | ESP32 | Wi‑Fi connect flow + status reporting | `Connecting_Wifi/Connecting_Wifi.ino` | — |
 | Wi‑Fi + Sending Response | ESP32 | Basic networking flow and response handling | `Connecting_Wifi_SendingResponse/Connecting_Wifi_SendingResponse.ino` | — |
-| ESP32 Temperature/Humidity (starter) | ESP32 | ESP32 project scaffolding + sensor-ready structure | `ESP32_TemperatureHumidity/ESP32_Assignment1.ino` | — |
 
 > Note: Some sketches also appear under *_Assignment* folders (older snapshots). The paths above point to the simplest top-level copies.
 
